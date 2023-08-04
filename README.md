@@ -1,4 +1,4 @@
-# ITF-Lab 2023
+# ITF-Lab
 
 ## Author
 Jeerapichsinee Inphol 66070031
